@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidKotlin_L1</string>
+    <string name="bigBlueButton">BigBlueButton</string>
+    <string name="textViewForBigBlueButton">textViewForBigBlueButton</string>
+</resources>
